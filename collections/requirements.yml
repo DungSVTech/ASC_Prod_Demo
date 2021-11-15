@@ -1,2 +1,3 @@
 collections:
     - name: ansible.tower
+    - name: test.test_collection
